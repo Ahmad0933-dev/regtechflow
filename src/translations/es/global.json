@@ -1,0 +1,170 @@
+{
+  "navbar": {
+    "solutions": "Soluciones",
+    "security": "Seguridad",
+    "about_us": "Sobre nosotros",
+    "contact": "Contacto",
+    "blog": "Blog"
+  },
+  "navbar_btn": {
+    "login": "Acceso",
+    "demo": "Manifestación"
+  },
+  "hero_section": {
+    "heading_start": "Automatizar procesos para",
+    "heading_center": "Corporativo",
+    "heading_end": "Gestión",
+    "paragraph_start": "RegTechFlow",
+    "paragraph_end": "es la herramienta todo en uno para profesionales y empresas que buscan escalar el cumplimiento y el gobierno corporativo.",
+    "hero_btn": "Solicite una demostración hoy"
+  },
+  "what_we_do_section": {
+    "heading_small": "QUE HACEMOS",
+    "heading_big": "Problemas resueltos por RegTechFlow",
+    "paragraph_start": "En",
+    "paragraph_center": "RegTechFlow,",
+    "paragraph_end": "Automatizamos procesos corporativos y de cumplimiento utilizando los datos almacenados en nuestra plataforma. Esto ayuda a las empresas a gestionar las tareas regulatorias sin problemas y de manera eficiente.",
+    "title_1": "Reducir el trabajo manual en un 75%",
+    "paragraph_1": "Ingresa tus datos una vez y déjanos hacer la magia por ti. RegTechFlow automatiza los procesos corporativos, las solicitudes de licencia y el monitoreo del cumplimiento, ahorrándole tiempo y esfuerzo.",
+    "title_2": "Nunca te pierdas una fecha límite",
+    "paragraph_2": "Manténgase al tanto de las fechas importantes con recordatorios automáticos de plazos de cumplimiento, renovaciones de contratos, auditorías, renovaciones de licencias y más, lo que garantiza envíos y actualizaciones oportunas.",
+    "title_3": "Reducir los costos de cumplimiento",
+    "paragraph_3": "Ahorre en costos laborales al automatizar procesos clave, lo que permite que RegTechFlow funcione como un miembro adicional del equipo, sin exceder su presupuesto.",
+    "title_4": "Compartir archivos de forma segura",
+    "paragraph_4": "Administre y comparta de forma segura sus documentos solo con socios autorizados, tanto dentro como fuera de su organización, garantizando que su información confidencial permanezca protegida."
+  },
+  "why_regtechflow_solutions_section": {
+    "heading_small": "¿POR QUÉ RegTechFlow?",
+    "heading_big": "Soluciones RegTechFlow",
+    "paragraph_start": "En",
+    "paragraph_center": "RegTechFlow,",
+    "paragraph_end": "Ayudamos a empresas de todos los tamaños e industrias a automatizar su gestión corporativa, de licencias y de cumplimiento. Nuestra plataforma reduce las tareas repetitivas y garantiza el cumplimiento con el mínimo esfuerzo. Explore nuestras soluciones que simplifican sus procesos comerciales, permitiéndole concentrarse en el crecimiento mientras nosotros manejamos los detalles.",
+    "title_1": "Gestión Corporativa",
+    "paragraph_1": "Administrar los datos de su empresa en múltiples departamentos (legal, financiero y de operaciones) nunca ha sido tan fácil. Con RegTechFlow, puede almacenar y administrar de manera eficiente todos sus datos corporativos en una plataforma segura, eliminando la carga repetitiva de completar formularios para varios procesos corporativos.",
+    "title_2": "Gestión de licencias",
+    "paragraph_2": "La presentación de solicitudes de licencia se automatiza, lo que le evita el papeleo repetitivo y le permite concentrarse en lo más importante.",
+    "title_3": "Monitoreo de cumplimiento",
+    "paragraph_3": "Administre sus obligaciones actuales en una sola plataforma. Adapte sus procesos de cumplimiento por industria, país o ambos.",
+    "title_4": "Soluciones de Consultores y Asesores",
+    "paragraph_4": "Utilice la plataforma para automatizar procesos y agregar valor a sus clientes ofreciendo:",
+    "paragraph_four_point_one": "Herramientas de automatización para tus clientes",
+    "paragraph_four_point_two": "Gestión del espacio de trabajo del cliente",
+    "paragraph_four_point_three": "Gestión documental centralizada",
+    "paragraph_four_point_four": "Recordatorios y notificaciones"
+  },
+  "why_regtechflow_key_features_section": {
+    "heading_small": "¿POR QUÉ RegTechFlow?",
+    "heading_big": "Características clave",
+    "paragraph_start": "RegTechFlow viene equipado con funciones innovadoras que hacen que la gestión de sus necesidades corporativas, de cumplimiento y de licencias sea más fácil que nunca:",
+    "title_one": "Compartir archivos de forma segura",
+    "paragraph_one": "Comparta sus documentos importantes con partes interesadas internas y externas. Gestiona el acceso, los permisos y garantiza la seguridad de los documentos en todo momento.",
+    "title_two": "Sistema de recordatorio inteligente",
+    "paragraph_two": "Anticípese a los plazos cruciales con recordatorios automáticos para informes de cumplimiento, renovaciones y otras tareas urgentes.",
+    "title_three": "Archivado y recuperación de documentos",
+    "paragraph_three": "Nunca pierda de vista los archivos importantes. Archive y recupere fácilmente cualquier documento, cuando lo necesite.",
+    "title_four": "Alerta de fecha de vencimiento",
+    "paragraph_four": "RegTechFlow le notificará antes de que caduquen sus documentos importantes, lo que garantizará que se mantenga actualizado con todos sus requisitos de documentación."
+  },
+  "security_section": {
+    "heading_small": "SEGURIDAD",
+    "heading_big": "Alojamiento basado en la nube o local",
+    "paragraph_start": "RegTechFlow viene equipado con funciones innovadoras que hacen que la gestión de sus necesidades corporativas, de cumplimiento y de licencias sea más fácil que nunca:",
+    "title_one": "Alojamiento en la nube",
+    "paragraph_one": "Proteja sus datos utilizando los servidores en la nube cifrados de RegTechFlow, lo que le brinda tranquilidad y accesibilidad desde cualquier lugar.",
+    "title_two": "Alojamiento local",
+    "paragraph_two": "Aloje RegTechFlow en sus servidores y mantenga el control total de sus datos si prefiere mantener todo internamente."
+  },
+  "privacy_section": {
+    "heading_small": "SEGURIDAD",
+    "heading_big": "Seguridad y Privacidad",
+    "paragraph_start": "En",
+    "paragraph_center": "RegTechFlow,",
+    "paragraph_end": "La seguridad es nuestra principal prioridad. Implementamos cifrado avanzado, protección multicapa y estrictos protocolos de privacidad de datos para garantizar que su información confidencial esté protegida en cada paso. Nuestra plataforma segura garantiza la confidencialidad e integridad de su información, brindándole tranquilidad al automatizar el cumplimiento.",
+    "title_one": "Alojamiento en la nube",
+    "paragraph_one": "Proteja sus datos utilizando los servidores en la nube cifrados de RegTechFlow, lo que le brinda tranquilidad y accesibilidad desde cualquier lugar.",
+    "title_two": "Alojamiento local",
+    "paragraph_two": "Aloje RegTechFlow en sus servidores y mantenga el control total de sus datos si prefiere mantener todo internamente."
+  },
+  "faq_section": {
+    "question_1": "¿Qué es RegTechFlow?",
+    "answer_1": "RegTechFlow es la herramienta todo en uno para profesionales y empresas que buscan escalar el cumplimiento y el gobierno corporativo.",
+    "question_2": "¿Cómo automatiza RegTechFlow la gestión corporativa?",
+    "answer_2": "RegTechFlow es la herramienta todo en uno para profesionales y empresas que buscan escalar el cumplimiento y el gobierno corporativo.",
+    "question_3": "¿Puedo realizar un seguimiento de las solicitudes de licencia a través de RegTechFlow?",
+    "answer_3": "RegTechFlow es la herramienta todo en uno para profesionales y empresas que buscan escalar el cumplimiento y el gobierno corporativo.",
+    "question_4": "¿Cómo gestiona RegTechFlow el cumplimiento?",
+    "answer_4": "RegTechFlow es la herramienta todo en uno para profesionales y empresas que buscan escalar el cumplimiento y el gobierno corporativo.",
+    "question_5": "¿Mis datos están seguros en RegTechFlow?",
+    "answer_5": "RegTechFlow es la herramienta todo en uno para profesionales y empresas que buscan escalar el cumplimiento y el gobierno corporativo.",
+    "question_6": "¿Puedo administrar varias entidades con RegTechFlow?",
+    "answer_6": "RegTechFlow es la herramienta todo en uno para profesionales y empresas que buscan escalar el cumplimiento y el gobierno corporativo.",
+    "question_7": "¿Cómo ayuda RegTechFlow con las fechas de vencimiento de los documentos?",
+    "answer_7": "RegTechFlow es la herramienta todo en uno para profesionales y empresas que buscan escalar el cumplimiento y el gobierno corporativo.",
+    "question_8": "¿Pueden las partes interesadas externas acceder a RegTechFlow?",
+    "answer_8": "RegTechFlow es la herramienta todo en uno para profesionales y empresas que buscan escalar el cumplimiento y el gobierno corporativo.",
+    "question_9": "¿Qué industrias pueden utilizar RegTechFlow?",
+    "answer_9": "RegTechFlow es la herramienta todo en uno para profesionales y empresas que buscan escalar el cumplimiento y el gobierno corporativo.",
+    "question_10": "¿Quién puede utilizar RegTechFlow?",
+    "answer_10": "RegTechFlow es la herramienta todo en uno para profesionales y empresas que buscan escalar el cumplimiento y el gobierno corporativo.",
+    "question_11": "¿Puedo personalizar la plataforma para las necesidades de mi negocio?",
+    "answer_11": "RegTechFlow es la herramienta todo en uno para profesionales y empresas que buscan escalar el cumplimiento y el gobierno corporativo.",
+    "question_12": "¿Dónde está alojado RegTechFlow?",
+    "answer_12": "RegTechFlow es la herramienta todo en uno para profesionales y empresas que buscan escalar el cumplimiento y el gobierno corporativo."
+  },
+  "news_letter_section": {
+    "heading_small": "Obtenga las últimas actualizaciones suscribiéndose a nuestro",
+    "heading_big": "hoja informativa",
+    "full_name": "Nombre completo",
+    "full_name_placeholder": "Introduce tu nombre completo",
+    "full_name_error": "Se requiere nombre completo",
+    "email": "Correo electrónico",
+    "email_placeholder": "Introduce tu correo electrónico",
+    "email_error": "Se requiere correo electrónico",
+    "company": "Compañía",
+    "company_placeholder": "Introduzca el nombre de su empresa",
+    "company_error": "El nombre de la empresa es obligatorio.",
+    "checkbox_text_start": "Al completar este formulario, también se registra para recibir nuestras comunicaciones de marketing. Echa un vistazo a nuestro",
+    "checkbox_text_center": "política de privacidad",
+    "checkbox_text_end": "para más información.",
+    "checkbox_error":"Por favor debe hacer clic en la casilla de verificación"
+  },
+  "footer": {
+    "solutions": "Soluciones",
+    "solutions_menu": {
+      "corporate_management": "Gestión Corporativa",
+      "license_management": "Gestión de licencias",
+      "compliance_monitoring": "Monitoreo de cumplimiento",
+      "consultants_advisors_solutions": "Soluciones de consultores y asesores"
+    },
+    "security": "Seguridad",
+    "security_menu": {
+      "data_security_encryption": "Seguridad y cifrado de datos",
+      "real_time_notifications": "Notificaciones en tiempo real",
+      "security_audits": "Auditorías de seguridad",
+      "access_controls": "Controles de acceso",
+      "authentication": "Autenticación",
+      "backup_replication": "Copia de seguridad y replicación",
+      "cloud_hosting_solutions": "Soluciones de alojamiento en la nube",
+      "certifications": "Certificaciones"
+    },
+    "about_us": "Sobre nosotros",
+    "about_us_menu": {
+      "our_story": "Nuestra historia",
+      "our_core_values": "Nuestros valores fundamentales",
+      "meet_team": "Conoce al equipo",
+      "careers": "Carreras"
+    },
+    "contact": "Contacto",
+    "contact_menu": {
+      "send_message": "Enviar un mensaje"
+    },
+    "blog": "Blog",
+    "copyright_text": "© RegTechFlow  2024",
+    "terms_text": "Términos y condiciones",
+    "privacy_policy": "política de privacidad"
+  },
+  "Request_demo_text": "Solicitar una demostración",
+  "read_more_text": "Leer más",
+  "subscribe_text": "Suscribir",
+  "learn_more_text": "Más información"
+}
