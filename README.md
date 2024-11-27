@@ -42,13 +42,26 @@ A React-based project with advanced state management, internationalization, secu
    ```
 
 2. **Install dependencies**:
-   npm install or npm install --force
+
+   ```bash
+   npm install
+   npm install --force
+
+   ```
 
 3. **Start the development server**:
+
+   ```bash
    npm start
 
+   ```
+
 4. **Build the project (for production)**:
+
+   ```bash
    npm run build
+
+   ```
 
 # **Dependencies**
 
